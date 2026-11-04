@@ -1,0 +1,6 @@
+{
+  "appId": "pl.superja.game",
+  "appName": "Super Ja",
+  "webDir": "www",
+  "android": { "backgroundColor": "#1d2b53" }
+}
